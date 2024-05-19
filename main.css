@@ -1,0 +1,12 @@
+.content{
+    background-image: url('./img/wallpaperflare.com_wallpaper.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+  
+}
+ 
+
+.quote{
+    background-color: rgba(173, 173, 192, 0.644);
+}
